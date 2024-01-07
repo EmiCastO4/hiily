@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+}
+
+.contenedor{
+    background: rgb(255, 255, 255);
+    background-image: url(https://media.discordapp.net/attachments/1057802957166489611/1193591018608676874/b.png?ex=65ad4542&is=659ad042&hm=dde3c5f3f4855240f4dd9a86b7ab58af17f48f771cab7e1952ce6ee2d9fc2c08&=&format=webp&quality=lossless&width=506&height=484); 
+    width: 100vw;
+    height: 100vh;
+    text-align: center
+}
+
+p{
+    font-size: xx-large;
+    padding: 15%;
+}
+
+button{
+    font-size: xx-large;
+    padding: 0.75em;
+}
+
+#yesBtn{
+    transform: translate(-100%,0);
+}
+
+#noBtn{
+    position: absolute;
+}
